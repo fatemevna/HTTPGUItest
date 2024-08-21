@@ -1,0 +1,11 @@
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\bin\Debug\httmlGUI.exe.config
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\bin\Debug\httmlGUI.exe
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\bin\Debug\httmlGUI.pdb
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\obj\Debug\httmlGUI.csproj.AssemblyReference.cache
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\obj\Debug\httmlGUI.Form1.resources
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\obj\Debug\httmlGUI.Properties.Resources.resources
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\obj\Debug\httmlGUI.csproj.GenerateResource.cache
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\obj\Debug\httmlGUI.csproj.CoreCompileInputs.cache
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\obj\Debug\httmlGUI.exe
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\obj\Debug\httmlGUI.pdb
+C:\Users\mohajer\source\repos\httmlGUI\httmlGUI\obj\Debug\httmlGUI.formFirst10Post.resources
